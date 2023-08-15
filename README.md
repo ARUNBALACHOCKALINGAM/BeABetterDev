@@ -1,6 +1,4 @@
 # BeABetterDev
-Road map that I will be following in order to be a better developer
-
 Becoming a Better Software Development Engineer requires a combination of technical skills, practical experience, and professional development. Below is a roadmap that outlines the steps, skills, and areas of focus to help you achieve this career milestone. Keep in mind that this roadmap is a general guideline, and your journey may vary based on your current skill level, background, and the specific requirements of the company you're aiming for. 
 
 ### 1. Master Programming Languages and Data Structures:
