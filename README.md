@@ -79,6 +79,6 @@ Adapt the roadmap based on your strengths, interests, and the opportunities avai
 
 ### Patterns using java for loops 
 
-- 12 Questions solved :done:
+- 12 Questions solved 
 - Gained an understanding on how to approach pattern problems 
 - Developed knowledge on how to use for loops
