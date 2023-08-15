@@ -73,12 +73,3 @@ Becoming a Better Software Development Engineer requires a combination of techni
 - Embrace challenges, learn from failures, and continuously improve your skills and approaches.
 
 Adapt the roadmap based on your strengths, interests, and the opportunities available to you. Stay persistent, keep learning, and work diligently to achieve your career aspirations.
-
-
-# Day one
-
-### Patterns using java for loops 
-
-- 12 Questions solved :done:
-- Gained an understanding on how to approach pattern problems 
-- Developed knowledge on how to use for loops
