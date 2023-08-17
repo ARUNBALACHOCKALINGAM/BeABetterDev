@@ -44,8 +44,20 @@ class ObjectExample {
         Student randomStudent = new Student();
 
         // Print properties of randomStudent using the method of Student class
-
         randomStudent.print();
+
+        // Declaring a final object
+        final Student st1 = new Student(2,"Kawin",200);
+
+        // this is possible
+        st1.name = "Ramesh";
+
+        // the below line is not possible because the reference of a final variable can't be changed
+        // st1 = new Student();
+
+
+        st1.print();
+
 
     }
 }
