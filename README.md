@@ -82,3 +82,13 @@ Adapt the roadmap based on your strengths, interests, and the opportunities avai
 - 12 Questions solved 
 - Gained an understanding on how to approach pattern problems 
 - Developed knowledge on how to use for loops
+
+
+# Day two
+
+### Recursion basics
+
+- 8 Questions solved 
+- Gained an understanding about recursion
+- Different types of recursion - parameterised and functional approach
+
