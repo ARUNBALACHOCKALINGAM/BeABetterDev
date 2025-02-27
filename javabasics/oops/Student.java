@@ -54,8 +54,6 @@ class ObjectExample {
 
         // the below line is not possible because the reference of a final variable can't be changed
         // st1 = new Student();
-
-
         st1.print();
 
 

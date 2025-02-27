@@ -6,7 +6,6 @@ public class BubbleSort {
     public static void main(String[] args) {
         int temp;
         boolean swapped;
-
         int[] arr = {0,6,2,1};
 
         int n = arr.length;

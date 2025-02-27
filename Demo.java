@@ -1,7 +1,7 @@
-package javabasics.arrays;
+
 import java.util.*;
 
-public class ArrayDemo {
+public class Demo {
 
     public static void main(String[] args) {
         // declares an array of integers
